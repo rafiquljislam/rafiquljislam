@@ -1,10 +1,10 @@
-### Hi there 👋, MD Rafiqul Islam
+<!--- ### Hi there 👋, MD Rafiqul Islam -->
 #### I am Android App Designer  And Developer
 ![I am Android App Designer  And Devaloper](https://scontent.fdac31-1.fna.fbcdn.net/v/t1.0-9/70836199_668426080234263_6190504924011298816_o.jpg?_nc_cat=107&ccb=2&_nc_sid=19026a&_nc_ohc=SXZnM0EwVfkAX8Jq8l8&_nc_ht=scontent.fdac31-1.fna&oh=9e68c5c56715d09ca018b75a2d5f35ae&oe=5FC537F8)
 
-Hi there. Thanks for visiting my portfolio. I am an MD. Rafiqul Islam, Student of Computer technology on Comilla polytechnic.
+<!-- Hi there. Thanks for visiting my portfolio. I am an MD. Rafiqul Islam, Student of Computer technology on Comilla polytechnic.
 I am interested in creating something new using the latest technologies. I always like to learn new technology and spreading out knowledge among others.
-
+-->
 Skills: Dart/ Flutter/  Python/ Django/REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Google Flutter 
